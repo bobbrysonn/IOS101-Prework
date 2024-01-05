@@ -22,6 +22,7 @@ The following **optional** functionality is completed:
 [Loom](https://www.loom.com/share/492dba3e8caf43a9abd033ce905f25cf) .
 
 ## App Brainstorming (Step 4)
+#### Favorite Apps
 1. Transit 
     - Great user interface
     - Integrated map navigation
