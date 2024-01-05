@@ -19,12 +19,13 @@ The following **optional** functionality is completed:
  
 ## Video Walkthrough
 
-[Loom]](https://www.loom.com/share/492dba3e8caf43a9abd033ce905f25cf) .
+[Loom](https://www.loom.com/share/492dba3e8caf43a9abd033ce905f25cf) .
 
 ## App Brainstorming (Step 4)
 1. Transit 
     - Great user interface
     - Integrated map navigation
+    - Fast loading time
 2. Youtube
     - The loading animation
     - Video preview feature
@@ -32,6 +33,7 @@ The following **optional** functionality is completed:
 3. Mint Intuit
     - Nice looking green theme
     - Informative graphs and visualization
+    - Automation of certain tasks
     
 #### App Idea
 - An audio journaling app that tracks emotions. The user would have to record something that made them happy, sad or angry everyday. The app would also feature a text-to-speech service to convert the audio recordings into text.
